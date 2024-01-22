@@ -1,0 +1,14 @@
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.AssemblyInfo.cs
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Desktop/homework2201/homework2201/bin/Debug/netcoreapp3.1/homework2201
+/Users/nergiznadirli/Desktop/homework2201/homework2201/bin/Debug/netcoreapp3.1/homework2201.deps.json
+/Users/nergiznadirli/Desktop/homework2201/homework2201/bin/Debug/netcoreapp3.1/homework2201.runtimeconfig.json
+/Users/nergiznadirli/Desktop/homework2201/homework2201/bin/Debug/netcoreapp3.1/homework2201.runtimeconfig.dev.json
+/Users/nergiznadirli/Desktop/homework2201/homework2201/bin/Debug/netcoreapp3.1/homework2201.dll
+/Users/nergiznadirli/Desktop/homework2201/homework2201/bin/Debug/netcoreapp3.1/homework2201.pdb
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.dll
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.pdb
+/Users/nergiznadirli/Desktop/homework2201/homework2201/obj/Debug/netcoreapp3.1/homework2201.genruntimeconfig.cache
